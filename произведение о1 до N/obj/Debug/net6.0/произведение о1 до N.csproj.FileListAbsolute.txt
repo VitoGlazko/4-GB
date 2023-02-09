@@ -1,0 +1,15 @@
+C:\Users\mecht\OneDrive\Рабочий стол\произведение о1 до N\bin\Debug\net6.0\произведение о1 до N.exe
+C:\Users\mecht\OneDrive\Рабочий стол\произведение о1 до N\bin\Debug\net6.0\произведение о1 до N.deps.json
+C:\Users\mecht\OneDrive\Рабочий стол\произведение о1 до N\bin\Debug\net6.0\произведение о1 до N.runtimeconfig.json
+C:\Users\mecht\OneDrive\Рабочий стол\произведение о1 до N\bin\Debug\net6.0\произведение о1 до N.dll
+C:\Users\mecht\OneDrive\Рабочий стол\произведение о1 до N\bin\Debug\net6.0\произведение о1 до N.pdb
+C:\Users\mecht\OneDrive\Рабочий стол\произведение о1 до N\obj\Debug\net6.0\произведение о1 до N.csproj.AssemblyReference.cache
+C:\Users\mecht\OneDrive\Рабочий стол\произведение о1 до N\obj\Debug\net6.0\произведение о1 до N.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mecht\OneDrive\Рабочий стол\произведение о1 до N\obj\Debug\net6.0\произведение о1 до N.AssemblyInfoInputs.cache
+C:\Users\mecht\OneDrive\Рабочий стол\произведение о1 до N\obj\Debug\net6.0\произведение о1 до N.AssemblyInfo.cs
+C:\Users\mecht\OneDrive\Рабочий стол\произведение о1 до N\obj\Debug\net6.0\произведение о1 до N.csproj.CoreCompileInputs.cache
+C:\Users\mecht\OneDrive\Рабочий стол\произведение о1 до N\obj\Debug\net6.0\произведение о1 до N.dll
+C:\Users\mecht\OneDrive\Рабочий стол\произведение о1 до N\obj\Debug\net6.0\refint\произведение о1 до N.dll
+C:\Users\mecht\OneDrive\Рабочий стол\произведение о1 до N\obj\Debug\net6.0\произведение о1 до N.pdb
+C:\Users\mecht\OneDrive\Рабочий стол\произведение о1 до N\obj\Debug\net6.0\произведение о1 до N.genruntimeconfig.cache
+C:\Users\mecht\OneDrive\Рабочий стол\произведение о1 до N\obj\Debug\net6.0\ref\произведение о1 до N.dll
